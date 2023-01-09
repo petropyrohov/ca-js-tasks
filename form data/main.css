@@ -1,0 +1,13 @@
+.center-children {
+    display: grid;
+    place-items: center;
+  }
+  
+  .w-400px {
+    width: 400px;
+  }
+  .task-form {
+    border: 1px solid #454545;
+    padding: 25px;
+    width: 400px;
+  }

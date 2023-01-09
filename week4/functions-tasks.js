@@ -101,3 +101,7 @@ console.group("32. Sukurkite funkciją, kuri pirmu parametru priimą <string>'ą
 }
 console.groupEnd();
 console.log();
+
+const array1 = [5, 12, 8, 130, 44];
+const GetBack = array1.at(-1);
+console.log(GetBack)

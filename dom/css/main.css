@@ -1,0 +1,28 @@
+.square {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: lightgray;
+  }
+
+  
+ /* .square2 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: rgb(134, 123, 123);
+  }
+
+  .square3 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: rgb(134, 123, 123);
+  }
+
+  .square4 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: rgb(87, 84, 84);
+  }

@@ -1,0 +1,28 @@
+{
+  "art": [
+    {
+      "id": "1",
+      "title": "Renesansas",
+      "year": 1503,
+      "damaged": true
+    },
+    {
+      "id": "2",
+      "title": "Neoclassicism",
+      "year": 1815,
+      "damaged": false
+    },
+    {
+      "id": "3",
+      "title": "Avangard",
+      "year": 1912,
+      "damaged": true
+    },
+    {
+      "id": "4",
+      "title": "Contemporary",
+      "year": 1951,
+      "damaged": false
+    }
+  ]
+}
